@@ -13,5 +13,17 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/java/weixin_jar/微信开发必备jar包/微信开发必备jar包/json_jar/json-lib-2.2.3-jdk15.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
