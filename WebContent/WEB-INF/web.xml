@@ -9,4 +9,15 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>weiXinServlet</servlet-name>
+  	<servlet-class>WeiXinServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>weiXinServlet</servlet-name>
+  	<url-pattern>/weiXinServlet.do</url-pattern>
+  </servlet-mapping>
+  
 </web-app>
